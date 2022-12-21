@@ -1,2 +1,2 @@
-# diabetes_feature_engineering
- Feature Engineering and ML Modeling on Diabetes Dataset
+# Feature Engineering and ML Modeling on Diabetes Dataset
+Bu Case Study'de Diabetes verisi üzerinde önce Keşifçi Veri Analizi yapıyoruz ve veri üzerinde işlem yapmadan bir model başarısı ölçüyoruz. Ardından Missing Value ve Outlier analizi, yeni değişken (Feature) üretimi, encoding ve standardscaling ile veriyi düzenleyip yeni bir ML modeli çalıştıyoruz ve model başarısına pozitif etkisini görüyoruz.
